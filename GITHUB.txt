@@ -1,0 +1,9 @@
+Username: lataga
+pwd: Trickyp@$$word07!
+
+Repositry name: testgit
+testgit url--https://github.com/lataga/testgit
+
+git installed in --C:\Program Files\Git
+
+https://github.com/lataga/testgit.git
